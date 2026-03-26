@@ -33,9 +33,6 @@ Currently learning/planning to study:
 - CSS
 - JavaScript
 - C#
-- C++
-
-I want to especially explore **C++** to better understand how systems and programming logic work.
 
 
 

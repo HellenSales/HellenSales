@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hellen!
 
-🎓 I'm a **17-year-old Brazilian student** currently living in **Portugal** and studying **TGPSI (Technical Course in Management and Programming of Information Systems)** at **Escola Secundária da Batalha**.
+🎓 I'm a **17-year-old Brazilian student** currently living in **Portugal** and studying **TGPSI (Technical Course in Management and Programming of Information Systems)** 
 
 I'm currently in the **11th grade**, exploring the world of programming and technology while still discovering which specific career path I want to follow in the future.
 
